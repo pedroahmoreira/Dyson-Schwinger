@@ -22,7 +22,8 @@ $$
 
 #### Notação Slash de Feynman
 
-Seja $k\!\!\!/ = k^\mu \gamma_\mu$. \\
+Seja $k\!\!\!/ = k^\mu \gamma_\mu$.
+
 $$
 \begin{align}
     &* \text{tr}\left[ k\!\!\!/ \right] = k^\mu \text{tr}\left[ \gamma_\mu \right] = 0 \\
